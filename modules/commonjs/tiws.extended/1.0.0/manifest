@@ -1,0 +1,10 @@
+version: 1.0.0
+description: a titanium module that adapts iamyellow TiWS native module, and extends its functionality with more fun things to do.
+author: AhmedTheGeek
+license: GNU v2
+copyright: Copyright © 2015 AhmedTheGeek
+name: tiws.extended
+moduleid: tiws.extended
+guid: 3c41d360-2031-f2a7-aef5-c04c55ea814c
+platform: commonjs
+minsdk: 3.2.0.GA
